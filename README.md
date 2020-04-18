@@ -1,6 +1,6 @@
 # Delivery GO!
 
-Aplicación para realizar pedidos de los mercados o tiendas disponibles de acuerdo a la ubicación mas cercana
+Aplicación para realizar pedidos de los mercados o tiendas disponibles de acuerdo a la ubicación mas cercana del cliente.
 
 ### Requisitos
 
