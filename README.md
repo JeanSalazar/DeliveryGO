@@ -15,37 +15,15 @@ Android v4.4 minimo
 
 Descargar desde la siguiente URL:
 
-Say what the step will be
-
 ```
-Give the example
+https://bit.ly/2xFFxvk
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 
 ## Versioning
 
-v1.0  - Funciones básicas
+v1.0 - Funciones básicas
 
 ## Authors
 
 * **Kristofer Salazar** - *Initial work* - [PurpleBooth](https://github.com/JeanSalazar)
-* **Miguel Obando** - *Initial work* - [PurpleBooth]
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Miguel Obando** - *Initial work*
